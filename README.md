@@ -1,6 +1,6 @@
 # EmbedSeg-napari
 
-Here, we attempt to extend **`EmbedSeg`** for use with **`napari`**. This is in an eraly phase of development and useability should become better in the upcoming weeks. Please feel free to open an issue, suggest a feature request or change in the UI layout.
+Here, we attempt to extend **`EmbedSeg`** for use with **`napari`**. This is in an early phase of development and useability should become better in the upcoming weeks. Please feel free to open an issue, suggest a feature request or change in the UI layout.
 
 ----------------------------------
 
